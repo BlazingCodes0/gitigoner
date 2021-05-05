@@ -1,3 +1,8 @@
+# Ignoner single file
 new-file.txt
 
+# Ignore directory and all files within it
 bin/
+
+# Ignore files ending with certian extention
+*.tmp
