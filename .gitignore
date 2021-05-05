@@ -1,5 +1,5 @@
 # Ignoner single file
-news-file.txt
+new-sfile.txt
 
 # Ignore directory and all files within it
 bin/
