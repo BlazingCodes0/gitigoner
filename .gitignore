@@ -1,5 +1,5 @@
 # Ignoner single file
-new-file.txt
+news-file.txt
 
 # Ignore directory and all files within it
 bin/
